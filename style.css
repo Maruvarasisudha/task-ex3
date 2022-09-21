@@ -1,0 +1,121 @@
+*{margin: 0;
+padding: 0;
+
+}
+.grad1 {
+    height: 660px;
+    width: auto;
+       /* background-color: gradient rgb(35, 99, 196);*/
+        background-image: linear-gradient(to bottom right, rgb(0, 60, 255), rgb(97, 82, 180));
+}
+       
+
+.box{
+border: none;
+background-color: linear-gradient(to bottom right, rgb(0, 60, 255), rgb(81, 60, 197));
+}
+
+.ph{ font-size: 2.5rem;
+}
+.box1{
+    padding-top: 150px;
+}
+.ph1{
+    font-size: 1.10rem;
+    color: rgb(172, 180, 189);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.but{
+    background-color: rgb(12, 163, 125);
+}
+.demos{
+    background-color: rgb(132, 190, 245);
+}
+.rounded{ 
+    border-radius: 20%;
+    box-sizing: border-box;
+    
+    padding: 20px;
+    background-color: white;
+  box-shadow: 0 0.15rem 1.75rem 0 rgb(31 45 65 / 15%);
+}
+.box2{
+    
+    
+    background-image: linear-gradient(to bottom right, rgb(242, 245, 248), rgb(242, 245, 248));
+}
+.rounded1{ 
+    
+    
+    
+    padding: 1px;
+    background-color:  rgb(225, 236, 248);;
+  box-shadow: 0 0.15rem 1.75rem 0 rgb(31 45 65 / 15%);
+}
+ @media (min-width:320px) {
+    
+ 
+.arrow{ 
+    margin-left: 150px;
+    
+ }
+}
+.arrow{ 
+    margin-left: 150px;
+    
+ }
+ .num{
+    color: #c5ccd6;
+ }
+ #num1{
+    color: #c5ccd6;
+ }
+.siz{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+.my{
+margin-bottom: 5rem!important;
+}
+
+@media (min-width:320px) {
+
+    
+}
+.pho{
+    
+width:250px;
+height:600px;
+
+}
+
+.lil{
+    color: #43474d;
+}
+.tens{
+    margin-top: 250px;
+}
+.first{
+    float: right;
+    margin-top: -400px;
+    margin-right: 135px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.second{
+    float: right;
+    margin-top: -400px;
+    margin-right: 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.para{
+    position: absolute;
+    top: 50%;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 16px;
+    text-align: center;
+    margin-left: 15px;
+}
